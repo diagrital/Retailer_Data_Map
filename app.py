@@ -13,13 +13,13 @@ import json
 # Load GeoJSON data for Indian states
 @st.cache
 def load_geojson():
-    with open(r"C:\Users\aspir\Downloads\MAPPING TASK\states_india.geojson", "r") as file:
+    with open(r"states_india.geojson", "r") as file:
         return json.load(file)
 
 # Load CSV data
 @st.cache
 def load_data():
-    return pd.read_csv(r"C:\Users\aspir\Downloads\MAPPING TASK\Real_Districts_Data_for_Indian_States.csv")
+    return pd.read_csv(r"Real_Districts_Data_for_Indian_States.csv")
 
 # Streamlit app
 st.title("Interactive Choropleth Map for Indian States")
