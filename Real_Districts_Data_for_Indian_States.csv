@@ -1,0 +1,61 @@
+State,District,Retail Count,Retailers with QR Code
+Uttar Pradesh,Lucknow,150,140
+Uttar Pradesh,Kanpur,200,190
+Uttar Pradesh,Varanasi,180,170
+Uttar Pradesh,Agra,220,210
+Uttar Pradesh,Meerut,190,180
+Maharashtra,Mumbai,300,290
+Maharashtra,Pune,350,340
+Maharashtra,Nagpur,280,270
+Maharashtra,Nashik,310,300
+Maharashtra,Aurangabad,290,280
+Bihar,Patna,250,240
+Bihar,Gaya,210,200
+Bihar,Bhagalpur,230,220
+Bihar,Muzaffarpur,240,230
+Bihar,Darbhanga,220,210
+West Bengal,Kolkata,400,390
+West Bengal,Darjeeling,370,360
+West Bengal,Siliguri,390,380
+West Bengal,Howrah,380,370
+West Bengal,Asansol,360,350
+Madhya Pradesh,Bhopal,260,250
+Madhya Pradesh,Indore,300,290
+Madhya Pradesh,Gwalior,270,260
+Madhya Pradesh,Jabalpur,310,300
+Madhya Pradesh,Ujjain,280,270
+Andhra Pradesh,-,344,334
+Assam,-,359,349
+Bihar,-,364,354
+Chhattisgarh,-,370,360
+Goa,-,375,365
+Gujarat,-,380,370
+Haryana,-,385,375
+Himachal Pradesh,-,390,380
+Jharkhand,-,395,385
+Karnataka,-,400,390
+Kerala,-,405,395
+Madhya Pradesh,-,410,400
+Maharashtra,-,416,406
+Manipur,-,421,411
+Meghalaya,-,426,416
+Mizoram,-,431,421
+Nagaland,-,436,426
+Odisha,-,441,431
+Punjab,-,446,436
+Rajasthan,-,451,441
+Sikkim,-,456,446
+Tamil Nadu,-,461,451
+Telangana,-,467,457
+Tripura,-,472,462
+Uttar Pradesh,-,477,467
+Uttarakhand,-,482,472
+West Bengal,-,487,477
+Andaman & Nicobar Island,-,492,482
+Chandigarh,-,497,487
+Dadara & Nagar Havelli,-,502,492
+Lakshadweep,-,507,497
+NCT of Delhi,-,513,503
+Puducherry,-,518,508
+Jammu & Kashmir,-,523,513
+Arunanchal Pradesh,-,528,518
